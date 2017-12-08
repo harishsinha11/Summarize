@@ -14,9 +14,9 @@ setup(
     version=summarize.__version__,
     description='A Python utility for summarizing articles using nltk.',
     long_description=readme,
-    author='Jonathon Vogel',
-    author_email='jonathon.vogel@gmail.com',
-    url='https://github.com/Rotten194/summarize.py',
+    author='Harish Sinha',
+    author_email='harishsinha11@gmail.com',
+    url='https://github.com/harishsinha11/summarize.py',
     packages=[
         'summarize',
     ],
